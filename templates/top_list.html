@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Youtube Trends</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+      .custom-container {
+      padding: 1px; /* Add padding to create space around the content */
+      background-color: #F5F5F5; /* Set a background color */
+      border: 1px solid red; /* Add a border for visual separation */
+      text-align: center;
+    }
+    .custom-panel {
+      border: 1px solid red;
+      padding: 1px; /* Add padding for spacing inside the panel */
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 custom-container">
+        <h1>Highest Monthly Earnings</h1>
+        <p>This site aims to provide insights into YouTube channel earnings and subscriptions to help you make informed decisions when starting a new YouTube channel.</p>
+        <ul style="text-align: left; font-weight: 600;">
+          <li>Explore earnings and subscriptions by channel type.</li>
+          <li>Choose the right channel type based on your interests and goals.</li>
+          <li>Get started on your journey to YouTube success!</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+    <div class="col-md-12">
+      <div id="barChartContainer"></div>
+      
+    </div>
+  </div>
+  
+    <div class="container">
+     
+     <div class="row">
+      <div class="col-md-12">
+        <div class="panel panel-primary custom-panel">
+         
+          <div class="well">
+            
+            <h5>Select a Youtuber Channel type you are interested in
+              to compare the number of subscribers needed for your wished monthly earnings</h5>
+            <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          </div>
+        </div>
+      </div>
+      </div>
+         </div>
+            <div class="row">
+              <div class="col-md-12">
+                <div id="lineChartContainer"></div>
+          </div>
+      </div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="static/js/toplist.js"></script>
+</body>
+</html>
+
