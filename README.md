@@ -2,7 +2,7 @@ YouTube Trends Dashboards
 
 Objective: 
 
-To conduct a comprehensive analysis of YouTube channel performance, content engagement, and audience demographics to optimize content strategy, increase viewer engagement, and grow the channels subscribe.
+To conduct a comprehensive analysis of YouTube channel performance, content engagement, and audience demographics to optimize content strategy, increase viewer engagement, and grow the channels subscription.
 
 ✅ How to start the application:
 
