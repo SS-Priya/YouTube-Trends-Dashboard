@@ -54,5 +54,11 @@ Creates multiple APIs, converts the SQLite database to Json format and returns t
 •	Supporting files app.py, database file.
 •	See notebook for Jupyter Python code for data cleaning and to convert from CSV file to database SQlite.  
 
+<img width="2115" alt="Screenshot 2023-09-21 at 6 55 46 pm" src="https://github.com/SS-Priya/YouTube-Trends-Dashboard/assets/134599676/e1f2640d-9b31-411a-82e2-220eb0e2015f">
+
+In summary,the recipe for YouTube success and impressive earnings boils down to three key ingredients:
+1.	The content category a channel falls into, whether it's music, entertainment, or comedy, plays a starring role in revenue generation.
+2.	Channels that rack up substantial video views, like T-Series and Cocomelon - Nursery Rhymes, add the finishing touch to their annual earnings.
+3.	An expansive subscriber base, exemplified by channels like T-Series and MrBeast, forms the foundation for high earnings.
 
 
