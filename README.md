@@ -29,7 +29,7 @@ The YouTube Trends Dashboard includes the following:
     (Caroline Grant, Helena Chen, Jancel Dawn Adiong, Priyavarthani Somangili Subramanian)
 
 •	Tools and Libraries used for this project.
-    (Python, JS, Leaflet, Flask, Chart.js, Data Driven Documents)
+    (Python, JS, Leaflet, Flask, Chart.js, Anime.js, Data Driven Documents)
 
 🖥️ Development Workflow :
 
